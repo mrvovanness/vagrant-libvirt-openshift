@@ -1,5 +1,5 @@
 ### Vagrant config to play with openshift, uses libvirt provider. 
-One master and one node currently
+One master and two nodes currently
 
 Before `vagrant up` update libvirt network `vagrant-libvirt`
 ```
